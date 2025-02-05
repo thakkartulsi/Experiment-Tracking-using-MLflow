@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a0676272046f4acabf03a716039e7ae0/artifacts
+end_time: 1738742892719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0676272046f4acabf03a716039e7ae0
+run_name: colorful-foal-497
+run_uuid: a0676272046f4acabf03a716039e7ae0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738742892676
+status: 3
+tags: []
+user_id: Tulsi

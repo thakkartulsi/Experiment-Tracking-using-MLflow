@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/29518bcee1b84c06a1b800c638f2e6af/artifacts
+end_time: 1738742834133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29518bcee1b84c06a1b800c638f2e6af
+run_name: handsome-shrimp-951
+run_uuid: 29518bcee1b84c06a1b800c638f2e6af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738742834083
+status: 3
+tags: []
+user_id: Tulsi

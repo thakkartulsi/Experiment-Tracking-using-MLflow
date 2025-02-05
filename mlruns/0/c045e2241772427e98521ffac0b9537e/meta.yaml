@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c045e2241772427e98521ffac0b9537e/artifacts
+end_time: 1738744586974
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c045e2241772427e98521ffac0b9537e
+run_name: tasteful-lamb-824
+run_uuid: c045e2241772427e98521ffac0b9537e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738744580632
+status: 3
+tags: []
+user_id: Tulsi
