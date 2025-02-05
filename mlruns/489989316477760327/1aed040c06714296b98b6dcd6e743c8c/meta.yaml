@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Experiment-Tracking-using-MLflow/mlruns/489989316477760327/1aed040c06714296b98b6dcd6e743c8c/artifacts
+end_time: 1738748901101
+entry_point_name: ''
+experiment_id: '489989316477760327'
+lifecycle_stage: active
+run_id: 1aed040c06714296b98b6dcd6e743c8c
+run_name: funny-duck-2
+run_uuid: 1aed040c06714296b98b6dcd6e743c8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738748901058
+status: 3
+tags: []
+user_id: Tulsi

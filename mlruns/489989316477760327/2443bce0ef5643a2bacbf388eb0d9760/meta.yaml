@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Experiment-Tracking-using-MLflow/mlruns/489989316477760327/2443bce0ef5643a2bacbf388eb0d9760/artifacts
+end_time: 1738748900671
+entry_point_name: ''
+experiment_id: '489989316477760327'
+lifecycle_stage: active
+run_id: 2443bce0ef5643a2bacbf388eb0d9760
+run_name: skittish-asp-61
+run_uuid: 2443bce0ef5643a2bacbf388eb0d9760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738748900600
+status: 3
+tags: []
+user_id: Tulsi

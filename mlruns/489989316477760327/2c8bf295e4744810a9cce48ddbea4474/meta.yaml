@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Experiment-Tracking-using-MLflow/mlruns/489989316477760327/2c8bf295e4744810a9cce48ddbea4474/artifacts
+end_time: 1738748901009
+entry_point_name: ''
+experiment_id: '489989316477760327'
+lifecycle_stage: active
+run_id: 2c8bf295e4744810a9cce48ddbea4474
+run_name: clumsy-goose-897
+run_uuid: 2c8bf295e4744810a9cce48ddbea4474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738748900973
+status: 3
+tags: []
+user_id: Tulsi

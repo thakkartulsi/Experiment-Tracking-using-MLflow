@@ -28,7 +28,6 @@ with mlflow.start_run():
     y_pred = rf.predict(X_test)
     accuracy = accuracy_score(y_test, y_pred)
 
-    # Creating a confusion matrix plot
     cm = confusion_matrix(y_test, y_pred)
     plt.figure(figsize=(8,6))
     sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', xticklabels=wine.target_names, yticklabels=wine.target_names)
@@ -36,13 +35,10 @@ with mlflow.start_run():
     plt.xlabel('Predicted values')
     plt.title('Confusion Matrix')
 
-    # save plot
     plt.savefig("Confusion_Matrix.png")
 
-    # log artifacts using mlflow
     mlflow.log_artifact(__file__)
 
-    # tags
     mlflow.set_tags({"Author": 'Tulsi', "Project": "Wine Classification"})
 
     print(accuracy)

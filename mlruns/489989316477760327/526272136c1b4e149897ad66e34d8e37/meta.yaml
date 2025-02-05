@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Experiment-Tracking-using-MLflow/mlruns/489989316477760327/526272136c1b4e149897ad66e34d8e37/artifacts
+end_time: 1738748900774
+entry_point_name: ''
+experiment_id: '489989316477760327'
+lifecycle_stage: active
+run_id: 526272136c1b4e149897ad66e34d8e37
+run_name: worried-midge-532
+run_uuid: 526272136c1b4e149897ad66e34d8e37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738748900736
+status: 3
+tags: []
+user_id: Tulsi
